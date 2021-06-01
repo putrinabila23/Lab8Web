@@ -23,3 +23,6 @@
 
 ![lab8(6)](https://user-images.githubusercontent.com/56376643/120358315-8f013680-c330-11eb-9433-31bd851f17af.JPG)
 
+# Berikut Tampilanya ketika di tampilkan pada Google Chrome
+
+![lab(7)](https://user-images.githubusercontent.com/56376643/120358773-1484e680-c331-11eb-846e-9879131e9f49.JPG)
